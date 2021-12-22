@@ -1,3 +1,5 @@
 print("Hola Fabian")
 print("Hola Diego")
 print("Hola Gildardo")
+print("Hola Omega")
+print("Hola Diego")
